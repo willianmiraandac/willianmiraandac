@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**willianmiraandac/willianmiraandac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Seja bem-vindo(a)!
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+Produzo beats e trabalho com sound design, mixagem & masterização.
+Apaixonado por música, branding e tecnologia.
+
+---
+
+## 🛠 Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,python" />
+</p>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
